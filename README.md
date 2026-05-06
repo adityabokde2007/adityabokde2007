@@ -11,7 +11,7 @@
 &nbsp;
 <a href="https://www.instagram.com/adi_tya_2486"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/aditya-bokde-b87a703b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/aditya-bokde-ab0b59341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 <br>
@@ -26,9 +26,9 @@
 <div align="center">
 <a href="https://github.com/Techie-pixel/SmartConnect/releases/tag/v1.0"><img src="https://img.shields.io/badge/SMARTCONNECT-a78bfa?style=for-the-badge&logo=android&logoColor=white" /></a>
 &nbsp;&nbsp;
-<a href="https://skill-gap-analyzer-cyan.vercel.app"><img src="https://img.shields.io/badge/SKILL_GAP_ANALYZER-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://skill-gap-analyze.netlify.app/"><img src="https://img.shields.io/badge/SKILL_GAP_ANALYZER-06b6d4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 &nbsp;&nbsp;
-<a href="https://techie-pixel.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://ai-finfluencer-risk.netlify.app/"><img src="https://img.shields.io/badge/AI_FINFLUENCER_RISK-f43f5e?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </div>
 <br>
 <div align="center">

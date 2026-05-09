@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020917,50:0c1a2e,100:0a1628&height=200&section=header&text=Aditya%20Bokde&fontSize=60&fontColor=22d3ee&animation=twinkling&fontAlignY=50&stroke=0e7490&desc=Data%20Science%20%7C%20Web%20%7C%20Mobile&descSize=16&descFontColor=67e8f9&descAlignY=72" />
+  <img src="./assets/header-banner.svg" width="100%" alt="Aditya Bokde" />
 </div>
 
 <br>

@@ -1,0 +1,68 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#020917"/>
+      <stop offset="50%" style="stop-color:#0c1a2e"/>
+      <stop offset="100%" style="stop-color:#020917"/>
+    </linearGradient>
+    <linearGradient id="wave1grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0e7490;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#0e7490;stop-opacity:0.5"/>
+      <stop offset="50%" style="stop-color:#22d3ee;stop-opacity:0.7"/>
+      <stop offset="80%" style="stop-color:#0e7490;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#0e7490;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="wave2grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#164e63;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#0891b2;stop-opacity:0.4"/>
+      <stop offset="50%" style="stop-color:#67e8f9;stop-opacity:0.6"/>
+      <stop offset="80%" style="stop-color:#0891b2;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#164e63;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="textgrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#67e8f9"/>
+      <stop offset="50%" style="stop-color:#22d3ee"/>
+      <stop offset="100%" style="stop-color:#06b6d4"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textglow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#bg)"/>
+
+  <!-- Subtle grid dots -->
+  <pattern id="dots" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.8" fill="#22d3ee" opacity="0.07"/>
+  </pattern>
+  <rect width="1200" height="200" fill="url(#dots)"/>
+
+  <!-- Wave 1 - top thin -->
+  <polyline fill="none" stroke="url(#wave1grad)" stroke-width="1.2"
+    points="0,60 60,60 90,35 110,85 130,60 200,60 230,30 245,95 260,60 340,60 370,28 385,98 400,60 480,60 510,32 525,92 540,60 620,60 650,25 665,100 680,60 760,60 790,35 805,88 820,60 900,60 930,30 945,95 960,60 1040,60 1070,28 1085,98 1100,60 1200,60"/>
+
+  <!-- Wave 2 - bottom thicker, more active -->
+  <polyline fill="none" stroke="url(#wave2grad)" stroke-width="1.8"
+    points="0,148 70,148 100,118 115,178 130,148 210,148 240,112 255,182 270,148 360,148 390,108 405,186 420,148 500,148 530,115 545,180 560,148 640,148 670,105 685,190 700,148 780,148 810,118 825,178 840,148 920,148 950,112 965,182 980,148 1060,148 1090,108 1105,186 1120,148 1200,148"/>
+
+  <!-- Glow dot on wave peak center -->
+  <circle cx="600" cy="25" r="4" fill="#22d3ee" opacity="0.95" filter="url(#glow)"/>
+  <circle cx="600" cy="25" r="10" fill="none" stroke="#22d3ee" stroke-width="0.8" opacity="0.4"/>
+  <circle cx="600" cy="25" r="18" fill="none" stroke="#22d3ee" stroke-width="0.4" opacity="0.2"/>
+
+  <!-- Small glow dots on side peaks -->
+  <circle cx="240" cy="30" r="2.5" fill="#67e8f9" opacity="0.7" filter="url(#glow)"/>
+  <circle cx="960" cy="30" r="2.5" fill="#67e8f9" opacity="0.7" filter="url(#glow)"/>
+
+  <!-- Main Name Text -->
+  <text x="600" y="118" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-1" fill="url(#textgrad)" filter="url(#textglow)">Aditya Bokde</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="148" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="400" letter-spacing="2" fill="#67e8f9" opacity="0.85">Data Science  |  Web  |  Mobile</text>
+</svg>

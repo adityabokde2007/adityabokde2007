@@ -24,7 +24,7 @@
 
 <br>
 <div align="center">
-<a href="https://github.com/Techie-pixel/SmartConnect/releases/tag/v1.0"><img src="https://img.shields.io/badge/SMARTCONNECT-a78bfa?style=for-the-badge&logo=android&logoColor=white" /></a>
+<a href="https://github.com/adityabokde2007/SmartConnect/releases/tag/v1.0"><img src="https://img.shields.io/badge/SMARTCONNECT-a78bfa?style=for-the-badge&logo=android&logoColor=white" /></a>
 &nbsp;&nbsp;
 <a href="https://skill-gap-analyze.netlify.app/"><img src="https://img.shields.io/badge/SKILL_GAP_ANALYZER-06b6d4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 &nbsp;&nbsp;
@@ -32,7 +32,7 @@
 </div>
 <br>
 <div align="center">
-<a href="https://github.com/Techie-pixel/Techie-pixel/raw/main/assets/Aditya_Bokde_Resume.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-39ff14?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" /></a>
+<a href="https://github.com/adityabokde2007/adityabokde2007/raw/main/assets/Aditya_Bokde_Resume.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_RESUME-39ff14?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" /></a>
 </div>
 <br>
 
@@ -93,7 +93,7 @@
 ## 🐍 GitHub Contributions
 <br>
 <div align="center">
-	<img alt="github-snake" src="https://raw.githubusercontent.com/Techie-pixel/Techie-pixel/output/github-snake-dark.svg" width="100%" />
+	<img alt="github-snake" src="https://raw.githubusercontent.com/adityabokde2007/adityabokde2007/output/github-snake-dark.svg" width="100%" />
 </div>
 <br>
 
@@ -104,11 +104,11 @@
 ## 📊 GitHub Stats
 <br>
 <div align="center">
-	<img width="70%" src="https://streak-stats.demolab.com?user=Techie-pixel&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=06b6d4&fire=f59e0b&currStreakLabel=06b6d4&background=0d1117&sideLabels=a78bfa&dates=8b949e" />
+	<img width="70%" src="https://streak-stats.demolab.com?user=adityabokde2007&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=06b6d4&fire=f59e0b&currStreakLabel=06b6d4&background=0d1117&sideLabels=a78bfa&dates=8b949e" />
 </div>
 <br>
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=Techie-pixel&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=f59e0b&area=true&area_color=302b63" width="95%" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityabokde2007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=f59e0b&area=true&area_color=302b63" width="95%" />
 </div>
 <br>
 

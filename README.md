@@ -28,7 +28,6 @@
 &nbsp;&nbsp;
 <a href="https://skill-gap-analyze.netlify.app/"><img src="https://img.shields.io/badge/SKILL_GAP_ANALYZER-06b6d4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 &nbsp;&nbsp;
-<a href="https://ai-finfluencer-risk.netlify.app/"><img src="https://img.shields.io/badge/AI_FINFLUENCER_RISK-f43f5e?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </div>
 <br>
 <div align="center">

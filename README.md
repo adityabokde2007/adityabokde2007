@@ -20,7 +20,7 @@
 
 <br>
 
-## 🚀 Project Showcase
+## Project Showcase
 
 <br>
 <div align="center">
@@ -39,7 +39,7 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## About Me
 <br>
 <div align="center">
 	<img alt="Aditya Loading Info" src="./assets/terminal-about.svg" width="100%">
@@ -50,7 +50,7 @@
 
 <br>
 
-## 💻 Top Skills
+## Top Skills
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -89,7 +89,7 @@
 
 <br>
 
-## 🐍 GitHub Contributions
+## GitHub Contributions
 <br>
 <div align="center">
 	<img alt="github-snake" src="https://raw.githubusercontent.com/adityabokde2007/adityabokde2007/output/github-snake-dark.svg" width="100%" />
@@ -100,7 +100,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <br>
 <div align="center">
 	<img width="70%" src="https://streak-stats.demolab.com?user=adityabokde2007&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=06b6d4&fire=f59e0b&currStreakLabel=06b6d4&background=0d1117&sideLabels=a78bfa&dates=8b949e" />

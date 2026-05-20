@@ -16,6 +16,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityabokde2007&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br>
+
 ---
 
 <br>

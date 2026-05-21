@@ -109,7 +109,7 @@
 ## GitHub Stats
 <br>
 <div align="center">
-	<img width="70%" src="https://streak-stats.demolab.com?user=adityabokde2007&theme=tokyonight&hide_border=true&stroke=a78bfa&ring=06b6d4&fire=f59e0b&currStreakLabel=06b6d4&background=0d1117&sideLabels=a78bfa&dates=8b949e" />
+	<img width="70%" src="https://github-readme-stats.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a78bfa&text_color=8b949e&ring_color=06b6d4" />
 </div>
 <br>
 <div align="center">

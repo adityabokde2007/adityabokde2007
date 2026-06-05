@@ -96,14 +96,11 @@
 <br>
 
 ## GitHub Contributions
+## GitHub Contributions
 <br>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake.svg?raw=true" />
-    <img alt="github-snake" src="https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.svg?raw=true" width="100%" />
-  </picture>
-</div>
+
+![github-snake](https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.svg?raw=true)
+
 <br>
 
 ---

@@ -1,5 +1,4 @@
 name: Generate Snake Animation
-
 on:
   push:
     branches:
@@ -7,25 +6,23 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-
       - name: Generate Snake Game
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: adityabokde2007
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark
       - name: Push Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

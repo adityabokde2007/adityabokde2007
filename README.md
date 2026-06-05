@@ -98,7 +98,11 @@
 ## GitHub Contributions
 <br>
 <div align="center">
-	<img alt="github-snake" src="https://raw.githubusercontent.com/adityabokde2007/adityabokde2007/output/github-snake-dark.svg" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake.svg?raw=true" />
+    <img alt="github-snake" src="https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.svg?raw=true" width="100%" />
+  </picture>
 </div>
 <br>
 
@@ -109,11 +113,11 @@
 ## GitHub Stats
 <br>
 <div align="center">
-	<img width="70%" src="https://github-readme-stats.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a78bfa&text_color=8b949e&ring_color=06b6d4" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a78bfa&text_color=8b949e&ring_color=06b6d4&count_private=true&include_all_commits=true" />
 </div>
 <br>
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityabokde2007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=f59e0b&area=true&area_color=302b63" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityabokde2007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=06b6d4&point=f59e0b&area=true&area_color=302b63" width="95%" />
 </div>
 <br>
 

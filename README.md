@@ -96,10 +96,9 @@
 <br>
 
 ## GitHub Contributions
-## GitHub Contributions
 <br>
 
-![github-snake](https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.svg?raw=true)
+![github-snake](https://github.com/adityabokde2007/adityabokde2007/blob/output/github-snake-dark.gif?raw=true)
 
 <br>
 

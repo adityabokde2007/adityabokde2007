@@ -113,7 +113,7 @@
 ## GitHub Stats
 <br>
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a78bfa&text_color=8b949e&ring_color=06b6d4&count_private=true&include_all_commits=true" />
+  <img width="70%" src="https://github-readme-stats-five-alpha-69.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=a78bfa&text_color=8b949e&ring_color=06b6d4&count_private=true" />
 </div>
 <br>
 <div align="center">

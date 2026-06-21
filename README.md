@@ -2,9 +2,6 @@
 
 ![Banner](./assets/Black%20and%20White%20Professional%20Data%20Analyst%20LinkedIn%20Banner.png)
 
-# Aditya Bokde
-### Aspiring Data Scientist | Machine Learning Enthusiast
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bokde-ab0b59341/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityabokde2007)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bokdeaditya77@gmail.com)

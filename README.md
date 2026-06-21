@@ -12,32 +12,7 @@
 
 ## About Me
 
-I'm an aspiring Data Scientist passionate about working with data, building machine learning models, and solving real-world problems through analytics.
-
-Currently focused on:
-- Data Analysis
-- Machine Learning
-- Predictive Modeling
-- Data Visualization
-- Model Deployment
-
----
-
-## Featured Projects
-
-### 🔍 Customer Churn Prediction
-Machine learning model for predicting customer churn using historical customer data.
-
-### 💳 Credit Card Fraud Detection
-Fraud detection system using classification algorithms and data preprocessing techniques.
-
-### 📈 Sales Forecasting Dashboard
-Data analysis and forecasting project for predicting future sales trends.
-
-### 🎯 Skill Gap Analyzer
-Web-based application for analyzing skills and identifying learning opportunities.
-
----
+I'm Aditya Bokde, a final-year Computer Technology student from Dharampeth Polytechnic, Nagpur. My journey started with web development and Android apps, and evolved into a passion for data science and machine learning. I love turning raw data into meaningful insights.
 
 ## Top Skills
 

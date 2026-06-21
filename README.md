@@ -78,14 +78,14 @@ I'm currently focused on strengthening my ML foundations, building production-re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityabokde2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=CDD9E5&ring_color=70A5FD" />
 
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabokde2007&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabokde2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=CDD9E5" />
 
 &nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityabokde2007&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityabokde2007&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=CDD9E5&stroke=0D1117" />
 
 </div>

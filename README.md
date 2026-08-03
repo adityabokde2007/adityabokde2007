@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./assets/Black%20and%20White%20Professional%20Data%20Analyst%20LinkedIn%20Banner.png)
+![Banner](./assets/banner.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bokde-ab0b59341/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityabokde2007)
@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm **Aditya Bokde**, a final-year Computer Technology student at Dharampeth Polytechnic, Nagpur. What started as curiosity about building websites and Android apps gradually turned into a deep interest in data — how it's collected, cleaned, analyzed, and ultimately used to make smarter decisions.
+I'm **Aditya Bokde**, a 2nd-year B.Tech CSE (Cloud Computing) student at MIT World Peace University, having transitioned into the program via lateral entry after completing my Diploma in Computer Technology at Dharampeth Polytechnic, Nagpur.
 
-Over the past year, I've worked on real-world projects involving fraud detection, customer churn prediction, restaurant analytics, and sales forecasting. I've completed multiple data science internships where I applied machine learning and EDA to actual business problems — not just textbook exercises.
+My focus has evolved from data-driven development toward **Cloud Engineering and DevOps** — building the skills needed to design, deploy, and manage scalable, reliable systems on the cloud. I'm currently strengthening my foundations in AWS, Docker, Kubernetes, Linux, and CI/CD pipelines, while continuing to build and ship real-world projects.
 
-I'm currently focused on strengthening my ML foundations, building production-ready projects, and transitioning fully into the data science space. I believe good data work is equal parts technical skill and clear thinking — and I'm working hard on both.
+I enjoy solving practical problems through hands-on work — from building and deploying full-stack applications to automating workflows and managing cloud infrastructure. I'm actively working toward a career as a **Cloud Engineer / DevOps Engineer**, and I'm always open to learning, collaborating, and taking on projects that push me to build production-grade, cloud-native systems.
 
 ---
 
@@ -26,36 +26,26 @@ I'm currently focused on strengthening my ML foundations, building production-re
 
 &nbsp;
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+&nbsp;
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6366F1?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+&nbsp;
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-
-&nbsp;
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6366F1?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-06B6D4?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-10B981?style=for-the-badge)
-
-&nbsp;
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 &nbsp;
-
-</div>
-
----
-
-## Resume
-
-<div align="center">
-
-[![Resume](https://img.shields.io/badge/Download_Resume-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/adityabokde2007/adityabokde2007/raw/main/assets/Internship_Resume.pdf)
 
 </div>
 
